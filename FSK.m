@@ -14,6 +14,6 @@ for counter = 1:100
     rec_data = step(fskDemodulator,rec_sig);
     errorStats = step(errorRate,trans_data,rec_data);
 end
-fprintf('Error rate = %4.2e\nNumber of errors = %d\nNumber of symbols = %d\n', errorStats)
+fprintf('Error rate of FSK= %4.2e\nNumber of errors = %d\nNumber of symbols = %d\n', errorStats)
 end
 
