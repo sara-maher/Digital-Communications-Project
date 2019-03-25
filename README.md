@@ -2,6 +2,7 @@
 All the schemes are done using a random number generator, a modulation and demodulation block, an AGWN channel, a constellation plot block, an error rate calculator block, and in the case of using raised cosine, a raised cosine transmitter and receiver blocks, with t set to 10.0, they differ in the values fed to the generator, and the modulation/ demodulation blocks used.
 
 **All conestalletions diagrams have AWGN channels with Eb/No = 10**
+
 **To reproduce performance plots, run performance.m with the name of the wanted simuntink file in the sim function**
 
 - ## **BPSK Modulation**:
