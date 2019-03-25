@@ -3,7 +3,7 @@ All the schemes are done using a random number generator, a modulation and demod
 
 **All conestalletions diagrams have AWGN channels with Eb/No = 10**
 
-**To reproduce performance plots, run performance.m with the name of the wanted simuntink file in the sim function**
+**To reproduce performance plots, run performance.m with the name of the wanted simulink file in the sim function**
 
 - ## **BPSK Modulation**:
 
