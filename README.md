@@ -97,7 +97,7 @@ Before channel noise       |  After channel noise
 
 # Second: Simulations With Applying Raised Cosine
 
-raised cosine transmit and recieve filters are applied before and after the AWGN channel respectively, as shown below
+raised cosine transmit and recieve filters are applied before and after the AWGN channel respectively, as shown below. Here t = 100.0 and Input signal power of AWGN channel is set to 0.5556/10 (input signal power of raised cosine transmit filter/filter span in symbols)
 
 - ## **BPSK Modulation**:
 
